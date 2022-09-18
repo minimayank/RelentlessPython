@@ -13,3 +13,4 @@ def pattern(n):
 
 num=int(input());
 pattern(num);
+#
